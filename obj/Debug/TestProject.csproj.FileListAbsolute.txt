@@ -1,0 +1,6 @@
+c:\users\argetima\documents\visual studio 2013\Projects\TestProject\TestProject\bin\TestProject.dll.config
+c:\users\argetima\documents\visual studio 2013\Projects\TestProject\TestProject\bin\TestProject.dll
+c:\users\argetima\documents\visual studio 2013\Projects\TestProject\TestProject\bin\TestProject.pdb
+c:\users\argetima\documents\visual studio 2013\Projects\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+c:\users\argetima\documents\visual studio 2013\Projects\TestProject\TestProject\obj\Debug\TestProject.dll
+c:\users\argetima\documents\visual studio 2013\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
